@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: 'openSansBold';
+    src: local('openSansBold'), url(./Fonts/OpenSansCondensed-Bold.ttf) format('truetype');
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    background: url('./Images/portfolio-background.png') no-repeat fixed center center;
+    background-size: cover;
+    color: #ffffff;
+    font-family: openSansBold, sans-serif;
+}
+.links {
+    padding: 5px;
+    font-size: 125%;
+    margin-right: 10px;
+}
+.activeLink {
+    border-bottom: solid 3px #0066cc;
+}
+.images, .videos {
+    max-width: 100%;
 }
