@@ -1,7 +1,6 @@
 {
   "homepage": "http://Tom-Staples.github.io/portfolio",
   "name": "my-portfolio",
-  "homepage": "http://staples-digital.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
