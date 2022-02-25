@@ -6,7 +6,6 @@ import { faBars } from '@fortawesome/free-solid-svg-icons';
  
 const Hamburger = () => {
     const [openMenu, setOpenMenu] = useState(false);
-    const [hover, setHover] = useState(false);
     const activeStyle = {
         color: "#0066cc"
     }
@@ -14,10 +13,8 @@ const Hamburger = () => {
         <Nav className="mr-auto">
             <FontAwesomeIcon 
                 icon={faBars} 
-                style={{fontSize: "200%", color: hover ? "#ffffff" :"#0066cc", transition: "500ms"}}
+                style={{fontSize: "200%", color: openMenu ? "#ffffff" :"#0066cc", transition: "500ms"}}
                 onClick={() => setOpenMenu(!openMenu)}
-                onMouseEnter={() => setHover(!hover)}
-                onMouseLeave={() => setHover(!hover)}
             />
             <div style={{
                  position: "fixed",
