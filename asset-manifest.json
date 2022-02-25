@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.610358ab.chunk.css",
+    "main.js": "/static/js/main.1b9698c4.chunk.js",
+    "main.js.map": "/static/js/main.1b9698c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
+    "static/js/2.4d41455a.chunk.js": "/static/js/2.4d41455a.chunk.js",
+    "static/js/2.4d41455a.chunk.js.map": "/static/js/2.4d41455a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3a9d463bb339ef7840e0d61e6a6e2450.js": "/precache-manifest.3a9d463bb339ef7840e0d61e6a6e2450.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.610358ab.chunk.css.map": "/static/css/main.610358ab.chunk.css.map",
+    "static/js/2.4d41455a.chunk.js.LICENSE.txt": "/static/js/2.4d41455a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/portfolio-background.9c5596b5.png",
+    "static/media/about.png": "/static/media/about.f72299c4.png",
+    "static/media/calorieCounter.png": "/static/media/calorieCounter.b3e42484.png",
+    "static/media/calorieCounterVid.mp4": "/static/media/calorieCounterVid.45a114c8.mp4",
+    "static/media/connect4.png": "/static/media/connect4.236eabd7.png",
+    "static/media/connect4.mp4": "/static/media/connect4.429a49f6.mp4",
+    "static/media/memoryMatchVid.mp4": "/static/media/memoryMatchVid.7c62a6a3.mp4",
+    "static/media/profile.png": "/static/media/profile.e9badeb2.png",
+    "static/media/starStylists.png": "/static/media/starStylists.881b16f8.png",
+    "static/media/starStylistsVid.mp4": "/static/media/starStylistsVid.c8ea9b3b.mp4",
+    "static/media/todoList.png": "/static/media/todoList.fb972d96.png",
+    "static/media/todoListVid.mp4": "/static/media/todoListVid.7ee6327f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3488d1.js",
+    "static/js/2.4d41455a.chunk.js",
+    "static/css/main.610358ab.chunk.css",
+    "static/js/main.1b9698c4.chunk.js"
+  ]
+}
